@@ -1,6 +1,8 @@
 # book-db-api
-npm i
-run node app.js
+install->npm i
+
+
+run-> node app.js
 books database  api
 # create books in db 
 http://localhost:9000/books post api payload -> {"title": "Book Title", "author": "Author Name", "isbn": "1234567890", "publicationDate": "2023-01-01"}
